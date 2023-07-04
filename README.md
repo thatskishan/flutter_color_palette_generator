@@ -46,7 +46,6 @@ flutter run
 
 ## Dependencies
 
-- [flutter_color_palette_generator](https://pub.dev/packages/flutter_color_palette_generator): A package to generate random color palettes.
 - [google_fonts](https://pub.dev/packages/google_fonts): A package to use custom fonts from the Google Fonts collection.
 
 You can find the complete list of dependencies in the `pubspec.yaml` file.
