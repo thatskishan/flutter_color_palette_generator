@@ -71,7 +71,6 @@ Contributions are welcome! If you have any suggestions, improvements, or bug fix
 ## Acknowledgments
 
 - Flutter SDK: [https://flutter.dev](https://flutter.dev)
-- Flutter Color Palette Generator package: [https://pub.dev/packages/flutter_color_palette_generator](https://pub.dev/packages/flutter_color_palette_generator)
 - Google Fonts package: [https://pub.dev/packages/google_fonts](https://pub.dev/packages/google_fonts)
 
 ## Author
