@@ -68,10 +68,6 @@ The app features a splash screen to provide a visually appealing launch experien
 
 Contributions are welcome! If you have any suggestions, improvements, or bug fixes, feel free to open an issue or create a pull request.
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
 ## Acknowledgments
 
 - Flutter SDK: [https://flutter.dev](https://flutter.dev)
